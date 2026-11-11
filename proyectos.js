@@ -77,9 +77,9 @@ const proyectos = [
 
     integrantes: ["Jonathan González", "Lucas Córdoba", "Anselmo Sturla"],
 
-    imagen: "assets/img/movimiento-portada.jpg",
+    imagen: "assets/img/fuerza-movimiento/image.jpeg",
 
-    galeria: ["assets/img/movimiento-1.jpg", "assets/img/movimiento-2.jpg"],
+    galeria: ["assets/img/fuerza-movimiento/image.jpeg"],
 
     videos: ["assets/videos/fuerza-movimiento/video.mp4"],
 
@@ -104,9 +104,9 @@ const proyectos = [
 
     integrantes: ["Herrera Martiniano", "Bautista Lastra"],
 
-    imagen: "assets/img/newton/",
+    imagen: "assets/img/newton/image.png",
 
-    galeria: ["assets/img/newton-1.jpg", "assets/img/newton-2.jpg"],
+    galeria: ["assets/img/newton/image.png"],
 
     videos: ["assets/videos/newton/video.mp4"],
 
