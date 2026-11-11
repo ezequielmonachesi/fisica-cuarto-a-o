@@ -59,7 +59,7 @@ const proyectos = [
     archivos: [
       {
         nombre: "Trabajo de Energía eléctrica y lumínica",
-        ruta: "assets/pdf/energia-electrica-luminica.pdf",
+        ruta: "assets/pdf/energia-luminica/archivo.pdf",
       },
     ],
   },
